@@ -3,7 +3,7 @@ scoreLeftwrist = 0;
 leftWristX = 0;
 leftWristY = 0;
 rightWristX = 0;
-rightWristy = 0;
+rightWristY = 0;
 song = "" ;
 
 function setup(){
